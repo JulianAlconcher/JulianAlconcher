@@ -11,7 +11,7 @@
     <a href="https://julianalconcher.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Bradge Telegram" />
     </a>
-    <a href="www.linkedin.com/in/julián-alconcher" target="_blank">
+    <a href="https://www.linkedin.com/in/julian-alconcher/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
     </a>
     <a href="mailto:alconcherjulian@gmail.com" target="_blank">
