@@ -32,9 +32,6 @@ I am a Software Engineering student at the National University of the South in B
 
 <div align="center">
 <a href="https://github.com/JulianAlconcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianAlconcher&show_icons=true&theme=dark&langs_count=5&count_private=true&card_width=280" height="220px"/>
-</a>
-<a href="https://github.com/JulianAlconcher">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulianAlconcher&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="JulianAlconcher's github stats" height="220px" />
 </a>
 </div>
