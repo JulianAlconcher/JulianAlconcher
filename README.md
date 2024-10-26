@@ -20,7 +20,7 @@
 </p>
 
 ## 🌍 About Me
-I am a Software Engineering student at the National University of the South in Bahía Blanca, Argentina.
+I am a Software Engineering student at Universidad Nacional Del Sur in Bahía Blanca, Argentina.
 
 ## 🎓 Education
 - **Software Engineering**  
