@@ -28,11 +28,4 @@ I am a Software Engineering student at Universidad Nacional Del Sur in Bahía Bl
 - **English Language Studies**  
   +6 years at English School, Bahia Blanca
 
-## 💻 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/JulianAlconcher">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulianAlconcher&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="JulianAlconcher's github stats" height="220px" />
-</a>
-</div>
 
